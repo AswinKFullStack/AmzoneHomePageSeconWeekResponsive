@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    background-color: #00050d;
+    
+    
+}
+.navbar-nav .nav-link.active ,a.nav-link  {
+    color: #aaa;
+    font-size: 1.2rem
+   
+}
+.NaviImage{
+    width: 7rem;
+    height: auto;
+    margin-left: 16rem;
+   
+    
+    
+}
+
+#navbarNavDropdown{
+    max-width: 68rem;
+    margin-right: 10rem;
+
+}
+.nav-item{
+padding-left: 1rem;
+
+}
+.nav-item :hover{
+    color: white;
+}
+
+#searchicon{
+    height: 2rem;
+    padding-top: .5rem;
+    
+    
+}
+#ProIcon{
+    height: 2rem;
+    background: transparent;
+}
+
+.row{
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+#frontpage{
+    max-width: 100vw;
+    
+    
+
+}
+#secondpage{
+    max-width: 100vw;
+}
+
+.bg{
+    background-size: cover; 
+    background-position: center; 
+    height: 45rem;
+    padding: 2rem;
+    color: white;
+}
+#row1{
+    background-image: linear-gradient(to right, #000 40%, transparent 58%),url(https://m.media-amazon.com/images/G/31/AmazonVideo/2019/MLP.jpg); 
+   
+}
+#row2{
+    background-image: linear-gradient(to right, #000 40%, transparent 58%), url(Images/CenterCombained__image.jpg); 
+}
+.lastsection{
+    
+    padding-bottom: .5em;
+    padding-top: .5em;
+    
+}
+.subject{
+   
+    padding: .8rem;
+    
+}
+
+.subject_title{
+    font-weight: 400;
+    font-size: 2.5rem;
+    line-height: 2.8rem;
+    }
+.subject__description{
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1.6rem;
+    padding-top: 1rem;
+    
+}
+.buttonDiv{
+    padding-top: 2rem;
+}
+.button{
+    background-color: #0F79AF;
+    color:#ffff;
+    border:none;
+    height: 48px;
+    width: 280px;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: 17px;
+    cursor:pointer;
+    text-align: center;
+    line-height: 20px;
+}
+
+.outerbox{  
+    height: auto;
+}
+.content{
+    
+    margin-left: 4rem;
+    margin-top: 1.7rem;
+}
+
+.subjecttitleDiv3{
+margin-right:3rem;
+
+}
+
+.subject_title3{
+    font-size: 2.8rem;
+    line-height: 3.1rem;
+    font-weight: 400;
+    color: #000;
+}
+.subjectdescriptionDiv3{
+        display: flex;
+        margin-top: 1.8rem;
+        margin-right: 4.2rem;
+}
+.subject__description3{
+    color: #000;
+    font-size: 1.5rem;
+    line-height: 1.6rem;
+    font-weight: 400;
+}
+
+.seconpart{
+    padding-right: 4em;
+}
+
+.Channel_list{
+        width: 100%;
+        }
+.Channel{    
+            
+            padding: 3px;
+            box-sizing: border-box;
+            float: left;
+            
+} 
+.Channel img{
+    
+     width: 100%;
+     height: 100%;
+     transition: opacity 10s ease-in-out;
+                 
+ }
+ .Channel img:hover{
+                    
+    box-shadow: 1px 1px 15px rgba(0,0,0,1),-1px 0 15px rgba(0,0,0,1);
+}
+
+
+
+.foot{
+    
+    background-color: #222222;
+    padding-top: 1.8em;
+    padding-bottom: .5rem;
+}
+
+
+.experiance_choice a{
+    color: #79b8f3;
+    margin-top: 1rem;
+    text-decoration: none;
+    margin-left: 1rem;
+    }
+
+.lastLine{
+    color:#8197a4 ;
+    margin-top: .5rem;
+}
+.experiance_choice a:hover{
+    color: #90dffe;;
+}
+  
+
